@@ -1,0 +1,422 @@
+{
+    "frame_0000": [
+        {
+            "class": "sports ball",
+            "mask_index": 1,
+            "num_points": 1265
+        }
+    ],
+    "frame_0001": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0002": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0003": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1255
+        }
+    ],
+    "frame_0004": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0005": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1259
+        }
+    ],
+    "frame_0006": [
+        {
+            "class": "sports ball",
+            "mask_index": 1,
+            "num_points": 1265
+        }
+    ],
+    "frame_0007": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0008": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0009": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0010": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0011": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0012": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1382
+        }
+    ],
+    "frame_0013": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0014": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1259
+        }
+    ],
+    "frame_0015": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0016": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0017": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0018": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0019": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0020": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1261
+        }
+    ],
+    "frame_0021": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1263
+        }
+    ],
+    "frame_0022": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0023": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1261
+        }
+    ],
+    "frame_0024": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1260
+        }
+    ],
+    "frame_0025": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0026": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0027": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1261
+        }
+    ],
+    "frame_0028": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0029": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0030": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0031": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0032": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0033": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0034": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1262
+        }
+    ],
+    "frame_0035": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0036": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0037": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1381
+        }
+    ],
+    "frame_0038": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0039": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1264
+        }
+    ],
+    "frame_0040": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0041": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1267
+        }
+    ],
+    "frame_0042": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0043": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0044": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1261
+        }
+    ],
+    "frame_0045": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1256
+        }
+    ],
+    "frame_0046": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1255
+        }
+    ],
+    "frame_0047": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0048": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0049": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1255
+        }
+    ],
+    "frame_0050": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0051": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0052": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0053": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0054": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ],
+    "frame_0055": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1260
+        }
+    ],
+    "frame_0056": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1266
+        }
+    ],
+    "frame_0057": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1262
+        }
+    ],
+    "frame_0058": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1260
+        }
+    ],
+    "frame_0059": [
+        {
+            "class": "sports ball",
+            "mask_index": 2,
+            "num_points": 1265
+        }
+    ]
+}
